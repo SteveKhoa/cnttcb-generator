@@ -1,5 +1,4 @@
 #  APP TRỘN CÂU HỎI CNTT CƠ BẢN 2022
--------------------
 
 Người dùng
 -------------------
@@ -20,4 +19,4 @@ Fixes:
 --------------------
 
 
-**This repository was created for internal use. If you are a guest, please ignore this repository.**
+***This repository was created for internal use. If you are a guest, please ignore this repository.***
