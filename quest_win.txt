@@ -1,0 +1,1500 @@
+1. Theo don vi do thong tin trong may tinh thi 1 byte bang bao nhieu bit ?
+ 4
+ 6
+ 8
+ 10
+2. Thiet bi nao sau day dung de ket noi mang?
+ RAM
+ ROM
+ Router
+ CPU
+3. Trong mang may tinh, thuat ngu Share co ý nghia gi?
+ Chia se tai nguyen
+ Nhan hieu cua mot thiet bi ket noi mang
+ Thuc hien lenh in trong mang cuc bo
+ Mot phan mem ho tro su dung mang cuc bo
+4. Cac thiet bi nao thong dung nhat hien nay dung de cung cap du lieu cho may xu lý?
+ Ban phim (Keyboard), Chuot (Mouse), May in (Printer)
+ May quet anh (Scaner)
+ Ban phim (Keyboard), Chuot (Mouse) va May quet anh (Scaner)
+ May quet anh (Scaner), Chuot(Mouse)
+5. Kha nang xu lý cua may tinh phu thuoc vao … ban su dung lua chon nao?
+ Toc do CPU, dung luong bo nho RAM, dung luong va o cung
+ Yeu to da nhiem
+ Hien tuong phan manh o dia
+ Ca 3 phan tren deu dung
+6. May tinh la gi?
+ La cong cu chi dung de tinh toan cac phep tinh thong thuong
+ La cong cu cho phep xu lý thong tin mot cach tu dong
+ La cong cu cho phep xu lý thong tin mot cach thu cong
+ La cong cu khong dung de tinh toan
+7. Trinh tu xu lý thong tin cua may tinh dien tu
+ Man hinh → CPU → Dia cung
+ Dia cung → Man hinh → CPU
+ Nhap thong tin → Xu lý thong tin → Xuat thong tin
+ Man hinh → May in → CPU
+8. Cau tao cua may tinh bao gom _____
+ Thiet bi nhap, thiet bi xuat, bo xu lý trung tam.
+ Thiet bi nhap xuat, bo xu lý trung tam, bo nho.
+ Thiet bi nhap, bo xu lý trung tam, bo nho.
+ Thiet bi nhap, thiet bi xuat, bo nho trong, bo nho ngoai.
+9. Trong phan loai mang may tinh theo qui mo, loai mang nao la nho nhat?
+ LAN = Local Area Network
+ MANs = Metropolitan Area Networks
+ WANs = Wide Area Networks
+ Internet
+10. Cau nao sau day dung?
+ Cac may tinh gan nhau mac dinh se thay nhau du khong cung lop mang
+ Neu chi co mot may tinh thi no khong the chia se du lieu
+ May khac co the thay doi cac tap tin chia se khi chua duoc phep
+ Hai may tinh van co the ket noi voi nhau ma khong quan tam den khoang cach dia lý la bao xa
+11. Tuong lua la _________ .
+ La su ket hop cua mot phan mem va mot thiet bi phan cung
+ Kiem soat luu thong du lieu giua 2 vung co do tin cay khac nhau tren mang
+ Co the dung de chan cac truy cap hop phap den mot thiet bi/dich vu
+ La mot thuat ngu am chi may tinh khong con an toan nua
+12. Mang may tinh la _______
+ Cac may tinh cung chung mot nha san xuat.
+ Cac may tinh doc lap va duoc ket noi voi nhau.
+ Cac mang do loai nhen tao ra ben trong thung may.
+ Cac may tinh duoc dat chung trong mot phong.
+13. Phat bieu nao la sai ve Virus may tinh ?
+ Co kha nang pha hoai doi voi cac san pham tin hoc
+ Co kha nang tu giau kin va tu sao chep
+ La mot chuong trinh may tinh do con nguoi tao ra
+ Tu dong bien mat sau mot khoan thoi gian
+14. TCP/IP la _____
+ 1 giao thuc
+ 1 bo giao thuc
+ 1 thiet bi mang
+ 1 phan mem
+15. Hinh thuc lay nhiem virus may tinh nao khong pho bien?
+ Qua cac thiet bi di dong nhu dia cung roi, the nho, …
+ Qua thu dien tu
+ Qua mang internet: vao trang web doc hai, tai phan mem tren mang, …
+ Tu cai dat len may noi bo
+16. Cac tac vu nao sau day dung trong phong chong virus?
+ Khong dung hoac dung rat nhanh may tinh nen se khong co virus
+ Dung cac phan mem chuyen nghiep trong phong chong virus va cap nhat cac ban va loi thuong xuyen
+ Khong bao gio ket noi may tinh voi cac thiet bi ngoai vi de tranh lay nhiem
+ Khong can phong chong, virus se tu dong bien mat khi tat may
+17. Mot chuong trinh may tinh la gi?
+ Mot tap cac buoc ma nguoi su dung phai tuan theo de mua phan mem
+ mot tap hop cac quy tac ve viec su dung hop phap cua phan mem ung dung
+ Thiet lap cac quy tac ve viec su dung hop phap cua phan mem ung dung
+ Chuoi cac huong dan duoc viet de thuc hien cac nhiem vu cu the
+18. Ta nhan duoc gi khi mua mot chuong trinh phan mem?
+ Cac quyen chia se chuong trinh voi nguoi dung khac
+ Giay phap cho phep cai dat va su dung chuong trinh phan mem
+ Ma nguon cua chuong trinh
+ Quyen ban cac chuong trinh phan mem cho nguoi khac
+19. Firmware la gi?
+ Mot ma so nhan dang ma nha cung cap san pham gan vao linh kien phan cung
+ Duoc lap trinh va duoc nhung vao trong mot thiet bi phan cung
+ Mot bao hanh duoc cung cap voi mot thiet bi phan cung
+ Mot ten goi khac cho phan cung dac biet nho nhu mot linh kien
+20. Phat bieu nao sau day la dung ve bo nho RAM?
+ Khong the nang cap
+ Cho phep doc ghi xoa thong tin
+ Khi mat dien du lieu trong RAM khong bi mat
+ He thong van hoat dong khi thieu RAM
+21. Cho cac don vi do luong sau: MegaByte (MB), Byte (B), GigaByte (GB), KiloByte (KB). Hay sap xep cac don vi do luong tu nho den lon.
+ B – KB - MB - GB
+ KB – B – MB - GB
+ GB – KB – MB - B
+ MB – KB – GB - B
+22. Dau khong phai la don vi the hien dung luong bo nho trong may tinh?
+ GigaByte (GB)
+ Bit (b)
+ ZettaByte (ZB)
+ GigaHertz (GHz)
+23. Nhin vao cac tham so cau hinh cua mot may tinh: 1.8Ghz, 20GB, 1GB. Con so 20Gb la thong so gi?
+ Toc do xu lý cua CPU
+ Toc do vong quay cua o cung
+ Dung luong cua o dia cung
+ Dung cua toi da cua dia DVD ma may co the doc duoc
+24. ROM la tu viet tat cua ________
+ Storage Of Memory
+ Resources Of Memory
+ Read Only Memory
+ Random Output Measure
+25. Bo nho truy nhap truc tiep RAM duoc viet tat tu, ban su dung lua chon nao?
+ Read Access Memory
+ Random Access Memory
+ Rewrite Access Memory
+ Ca 3 cau deu dung
+26. Bo nho RAM va ROM la bo nho gi?
+ Primary memory
+ Receive memory
+ Secondary memory
+ Random access
+27. GUI cho phep giao tiep voi may tinh bang hinh anh va chu viet. GUI la viet tat cua ___
+ Graphics User Interaction
+ Good User Interface
+ Graphical User Interface
+ Great User Interface
+28. Phat bieu nao sau day sai?
+ Mang la moi truong nhieu nguoi dung
+ Mang la moi truong da nhiem
+ Mang la moi truong phan tan
+ Viec chia se du lieu tren mang la khong an toan
+29. He thong so nao duoc May tinh su dung chinh?
+ He Nhi phan
+ He Bat phan
+ He Thap luc phan
+ He Thap phan
+30. Dau khong phai la trach nhiem ca nhan cua nguoi dung?
+ Dam bao bao mat thong tin ca nhan
+ Dam bao do manh cua mat khau (neu co) va doi mat khau thuong xuyen
+ Dam bao chia se tai nguyen dung nguoi va dung viec
+ Quan lý cac nguoi dung khac
+31. Phat bieu nao sau day ve thiet bi nhap (input)/xuat (output) cua mot he thong may tinh la sai?
+ Chuyen doi du lieu tu the gioi thuc sang dang so (input) va nguoc lai (output)
+ Co the la ban phim, chuot, webcam (input) va man hinh (output)
+ Khong bao gom mainboard may tinh
+ Bo xu lý trung tam cung la mot thiet bi nhap
+32. Loai may tinh nao duoc dung de chay nhung phan mem chuyen mon hoa hoac de chia se tai nguyen, quan lý nguon du lieu lon?
+ Server
+ Desktop
+ Netbook
+ Tablet
+33. Ngon ngu nao sau day khong thuoc Ngon ngu duoc lap trinh tren may tinh:
+ Ngon ngu may
+ Ngon ngu cap cao
+ Ngon ngu huong doi tuong
+ Ngon ngu tu nhien
+34. Muc dich chu yeu cua chinh sach an ninh thong tin cua mot to chuc la gi?
+ Quan lý viec dau tu cua cong ty
+ Theo doi va kiem soat thong tin, du lieu nhay cam
+ Mo ta hoat dong kinh doanh
+ Thu nhap thong tin thi truong
+35. Neu mot may tinh bi nghi ngo la nhiem virus thi cach thuc tot nhat de kiem tra va diet virus la gi?
+ Cai dat lai he dieu hanh, sau do cai dat lai tat ca cac chuong trinh ung dung khac
+ Cai dat mot chuong trinh chong virus, quet virus cac o dia cua may tinh va cho chuong trinh nay loai bo virus
+ Luu tru du phong cac tep tin cua may tinh va hoi phuc chung bang viec su dung nhung tap tin du phong nay
+ Khoi dong lai may tinh va sau do xoa tat ca nhung tap tin bi nghi ngo nhiem virus
+36. Van de suc khoe pho bien cua nguoi su dung may tinh la cac chan thuong co tay. Nguyen nhan cua chan thuong thong thuong la gi?
+ Ghe khong dieu chinh
+ Su dung ban phim lau
+ Vi tri man hinh dat sai
+ Su dung hang ngay mot thiet bi do co tay
+37. Trong nhung tinh huong hoac linh vuc nao sau day, con nguoi lam viec tot hon may tinh
+ Tinh toan
+ Nhung cong viec duoc tu dong hoa
+ Nhan dang
+ Nhung noi nguy hiem
+38. Theo ban, cau nao sau day khong the hien uu diem cua lam viec tu xa (Tele-working)
+ Giam thoi gian di lai
+ Kha nang tap trung vao cong viec
+ Tang cuong su lien he truc tiep
+ Giam khong gian van phong
+39. Lua chon nao sau day chi ra su khac biet chinh xac giua phan mem ung dung va phan mem he dieu hanh
+ Phan mem ung dung can nhieu khong gian trong o cung hon phan mem he dieu hanh de chay
+ Phan mem he dieu hanh can phan mem ung dung de chay
+ Phan mem he dieu hanh can nhieu bo nho hon phan mem ung dung de chay
+ Phan mem ung dung can phan mem he dieu hanh de chay
+40. Loi the cua mua hang truc tuyen so voi mua hang binh thuong o cua hang la gi?
+ Viec thanh toan dam bao an ninh hon
+ Viec xac dinh tinh trang cua hang hoa de dang hon
+ Co the mua hang trong suot 24h trong mot ngay
+ Hang hoa da mua de tra lai hon
+41. May tinh co the giup con nguoi thuc hien
+ Chuyen tien qua mang may tinh cua ngan hang
+ Hoc tap moi noi, moi luc.
+ He thong the tin dung
+ Tat ca cac muc tren.
+42. Day so nao bieu dien du lieu he nhi phan
+ 01010000
+ 00120000
+ 00fe0001
+ 000A110
+43. CPU co nghia la
+ Mach dien tu nho be cua may tinh
+ Phan mem quyet dinh cac buoc thao tac cua may tinh
+ Control Processing Unit
+ Central Processing Unit
+44. Virus may tinh
+ Chi hoat dong khi phan mem bi sao chep trai phep.
+ La mot chuong trinh may tinh
+ La phan cung chi pha hoai cac phan khac
+ La mot loai nam moc tren be mat dia
+45. Trong nhung tinh huong nao sau day, may tinh thuc thi cong viec tot hon con nguoi
+ Khi dich mot cuon sach
+ Khi chan doan benh
+ Khi phan tich tam lý mot con nguoi
+ Khi thuc hien mot phep toan phuc tap
+46. Theo ban, cac phan mem sau thuoc nhom phan mem nao: MS Word, MS Excel, MS Access, MS PowerPoint, MS Internet Explorer
+ Nhom phan mem ung dung
+ Nhom phan mem he thong
+ Nhom phan mem CSDL
+ Nhom phan mem he dieu hanh
+47. Cau nao chua dung trong so cac cau sau?
+ Phan mem thuong mai – commercial software: co dang ký ban quyen : khong cho phep sao chep duoi bat ky hinh thuc nao.
+ Phan mem chia se - Shareware: co ban quyen, dung thu truoc khi mua. Neu muon tiep tuc su dung chuong trinh thi duoc khuyen khich tra tien cho tac gia.
+ Phan mem mien phi - Freeware: cho phep nguoi khac tu do su dung hoan toan hoac theo mot so yeu cau bat buoc. Vi du phai kem ten tac gia …
+ Phan mem nguon mo - Open source software: cong bo mot phan ma nguon de moi nguoi tham gia phat trien
+48. Dau la mot vi du cua chinh sach mat khau tot
+ Chon mot mat khau co it hon 6 mau tu
+ Mat khau phai giong lý lich nguoi su dung (vi du ngay thang nam sinh, que quan)
+ Khong bao gio cho nguoi khac biet mat khau cua ban
+ Chi thay doi mat khau sau mot thoi gian dai
+49. Ký hieu Hz co nghia la gi?
+ Toc do xung nhip ben trong cua may tinh trong moi chu ky
+ Toc do ket noi Internet
+ So luong du lieu co the duoc luu tru tren may tinh
+ Toc do quay cua quat chip
+50. Dich vu Internet duoc chinh thuc cung cap tai Viet Nam vao nam nao?
+ 1995
+ 1996
+ 1997
+ 1998
+51. Trong Windows, thao tac nao se xoa han cac tap tin duoc chon?
+ Bam chuot phai vao cac tap tin duoc chon va chon lenh Delete
+ Nhan phim Delete tren ban phim
+ Giu phim Shift va nhan phim Delete tren ban phim
+ Giu phim Alt va nhan phim Delete tren ban phim
+52. My Computer khong co chuc nang nao duoi day?
+ Quan lý o dia, mang
+ Quan lý may in
+ Quan lý Control Panel
+ Quan lý Virus
+53. Phim, to hop phim nao dung de chup man hinh?
+ Ctrl+C
+ Ctrl+Ins
+ Print Screen
+ ESC
+54. De chup hinh anh cua mot hop thoai bang ban phim ta nhan to hop phim nao?
+ Alt+Printscreen
+ Shift+Tab
+ Alt+Tab
+ Ctrl+Shift+Tab
+55. De dinh vi Taskbar trong trang thai duoc dinh vi tuy ý ta chon
+ Taskbar dinh vi o bottom la co dinh va khong the di chuyen
+ Dung chuot keo the Taskbar tuy ý tren 4 canh man hinh
+ Nhan phai chuot vao Taskbar chon Show Desktop
+ Nhan phai chuot vao Taskbar chon Properties – tai dong Taskbar location on screen va chon vi tri tuy ý
+56. Khai niem Desktop la gi ?
+ La man hinh dang nhap
+ La man hinh de chinh sua cac thanh phan cua Windows
+ La man hinh xuat hien dau tien sau khi Windows khoi dong xong
+ La man hinh dau tien xuat hien khi cai dat mot phan mem
+57. Trong Window de chon nhieu tap tin hay thu muc lien tuc ta thuc hien thao tac ket hop phim ____ voi bam chuot trai.
+ Tab
+ Shift
+ Ctrl
+ Alt
+58. Bo phim tat nao duoc su dung de chuyen sang cac cua so dang mo khac?
+ Alt+F4
+ Ctrl+Esc
+ Alt+Tab
+ Ctrl+Tab
+59. Trong Windows de chon nhieu tap tin khong nam lien nhau, ta bam chuot trai va phim _____
+ Shift
+ Alt
+ Tab
+ Ctrl
+60. Phim tat de sao chep mot doi tuong vao ClipBoard la _____
+ Ctrl+X
+ Ctrl+C
+ Ctrl+V
+ Ctrl+D
+61. Phim tat de cat mot doi tuong vao ClipBoard la _____
+ Ctrl+X
+ Ctrl+C
+ Ctrl+V
+ Ctrl+D
+62. Phim tat de dan mot doi tuong tu ClipBoard la _____
+ Ctrl+X
+ Ctrl+C
+ Ctrl+V
+ Ctrl+D
+63. De dong ung dung ta dung to hop phim:
+ Ctrl+A
+ Alt+F4
+ Ctrl+F4
+ Alt+A
+64. Cac thong so 1280x1024, 1280x720, 1152x864 trong tinh nang Screen Resolution la nhung thong so thiet lap _____
+ Kich thuoc anh
+ Nhung bai toan nhan
+ Do phan phai man hinh
+ Kich thuoc man hinh
+65. De xem noi dung thu muc voi cac thong tin mac dinh: Name, Types, Size, Date modified, … ta chon che do hien thi nao?
+ Tiles
+ List
+ Detail
+ Content
+66. Windows Explorer dung de
+ Quan lý tap tin, thu muc
+ Truy cap mang
+ Quan lý tap tin
+ Quan lý thu muc
+67. Cach tat may nao sau day co the gay hai cho may tinh ?
+ Nhan va giu nut nguon den khi may tat
+ Su dung chuc nang Power Off
+ Su dung chuc nang Hibernate
+ Nhan phim Windows → bam mui ten phai → Nhan phim Enter
+68. He dieu hanh la ________
+ Mot chuong trinh chay tren may tinh dung quan lý dieu hanh may tinh
+ Mot chuong trinh chay tren may tinh nhu cac chuong trinh khac
+ Mot thiet bi gan them vao may tinh de quan lý dieu hanh may tinh
+ Chinh la may tinh
+69. He dieu hanh khong co nhiem vu nao ?
+ Cung cap giao dien su dung va giao dien lap trinh cho nguoi dung
+ Thuc hien cac thao tac co ban nhu doc/ghi va quan lý tap tin
+ Cung cap mot so cong cu co ban nhu trinh duyet, trinh soan thao van ban
+ Diet Virus may tinh
+70. Thu muc nao khong phai la thu muc cua he thong?
+ My Computer
+ My Document
+ My Download
+ Recycle Bin
+71. Trong hinh sau, may in mac dinh duoc danh so may?
+ So 1
+ So 2
+ So 3
+ So 4
+72. So phan vung o cung nhieu nhat trong may tinh the hien o hinh sau la bao nhieu?
+ 3
+ 4
+ 5
+ 6
+73. Trong hinh sau, o dia nao la o dia quang?
+ O C
+ O D
+ O E
+ O F
+74. Tep tin co phan mo rong la JPG cho ta biet day la loai tep tin gi?
+ File anh
+ File thuc thi
+ File van ban
+ File am thanh
+75. Tep tin co phan mo rong la EXE cho ta biet day la loai tep tin gi ?
+ File anh
+ File thuc thi
+ File van ban
+ File am thanh
+76. Microsoft Windows la mot _____
+ Chuong trinh xu lý van ban.
+ Chuong quan lý co so du lieu
+ He dieu hanh (Operating System).
+ Chuong trinh do hoa (Graphics Program).
+77. Phim Caps Lock co chuc nang gi ?
+ Bat/Tat chuc nang cuon trang trong Excel bang phim mui ten
+ Bat/Tat cach go van ban bang chu in hoa
+ Bat/Tat day phim so ben phai
+ Bat/Tat ban phim ao
+78. Phim Num Lock co chuc nang gi ?
+ Bat/Tat chuc nang cuon trang trong Excel bang phim mui ten
+ Bat/Tat cach go van ban bang chu in hoa
+ Bat/Tat day phim so ben phai
+ Bat/Tat ban phim ao
+79. Co bao nhieu tai lieu khac nhau co the mo trong cung mot thoi diem ?
+ Khong hon 3
+ Chi co 1
+ Khong nhieu hon thanh Taskbar co the hien thi
+ Mo cho den khi bo nho may tinh khong cho phep
+80. Qua trinh Sleep trong may tinh nghia la ____
+ Dat may vao trang thai cho doi va hoat dong tro lai khi bam nut tren ban phim hoac chuot
+ Dat may tinh vao trang thai tat hoan toan
+ Luu cac trang thai hien thoi cua cac ung dung dang mo vao o cung va dat may tinh vao trang thai tat hoan toan
+ May tinh se tat hoan toan va tu bat nguon len lai.
+81. Qua trinh Hibernate trong may tinh nghia la ____
+ Dat may vao trang thai cho doi va hoat dong tro lai khi bam nut tren ban phim hoac chuot
+ Dat may tinh vao trang thai tat hoan toan
+ Luu cac trang thai hien thoi cua cac ung dung dang mo vao o cung va dat may tinh vao trang thai tat hoan toan
+ May tinh se tat hoan toan va tu bat nguon len lai.
+82. Qua trinh Shut down trong may tinh nghia la ____
+ Dat may vao trang thai cho doi va hoat dong tro lai khi bam nut tren ban phim hoac chuot
+ Dat may tinh vao trang thai tat hoan toan
+ Luu cac trang thai hien thoi cua cac ung dung dang mo vao o cung va dat may tinh vao trang thai tat hoan toan
+ May tinh se tat hoan toan va tu bat nguon len lai.
+83. Qua trinh Restart trong may tinh nghia la ____
+ Dat may vao trang thai cho doi va hoat dong tro lai khi bam nut tren ban phim hoac chuot
+ Dat may tinh vao trang thai tat hoan toan
+ Luu cac trang thai hien thoi cua cac ung dung dang mo vao o cung va dat may tinh vao trang thai tat hoan toan
+ May tinh se tat hoan toan va tu bat nguon len lai.
+84. So ký tu toi da ma mot ten tap tin co the co la _____
+ 64
+ 128
+ 255
+ 256
+85. Duong dan trong may tinh co nghia gi?
+ Cho biet cac tuyen duong chinh xac can phai di qua de den duoc vi tri cua mot tap tin
+ Cho biet ten dang nhap va mat khau hien dang duoc su dung
+ Cho thay noi cac tap tin chuong trinh duoc luu tru tren he thong
+ Thiet lap cac ket noi Internet cho cac thong tin dang nhap
+86. Phim tat nao duoc dung de doi ten tap tin/thu muc?
+ F1
+ F2
+ F3
+ F4
+87. Y nghia cua Recycle Bin (thung rac) la gi?
+ Cho biet co the xoa mot so thu muc cu hon
+ Cho biet co cac tap tin cu se bi xoa
+ Luu tru cac tap tin da bi xoa hoac thu muc duoc tao ra boi nhung nguoi chia se may tinh
+ Khu vuc luu tru tam thoi cac tap tin va thu muc bi xoa
+88. Viec cai dat mot ngon ngu khac tren may tinh nham muc dich gi?
+ De thay doi viec hien thi hoac cach nhap lieu
+ De tu dong chuyen doi email sang ngon ngu khac khi ta mo chung
+ De cho phep tap tin fax tu cac nuoc khac den may tinh se duoc dich tu dong
+ De dich tu dong mot tai lieu sang ngon ngu khac
+89. Thong bao sau cho biet dieu gi?
+ Di chuyen thu muc Winrar vao thung rac
+ Xoa hoan toan thu muc Winrar
+ Khong the doi ten thu muc Winrar thanh ten khac
+ Chi hien thi thong tin ve thu muc Winrar va khong co gi xay ra neu bam nut Yes hoac No
+90. Nguoi va may tinh giao tiep voi nhau thong qua
+ He dieu hanh
+ Dia cung
+ Chuot
+ Ban phim
+91. Phan mem nao duoi day khong phai la phan mem he thong?
+ Microsoft-DOS
+ Microsoft Windows
+ Linux
+ Microsoft Excel
+92. Thong bao sau cho biet dieu gi?
+ Di chuyen thu muc Books vao thung rac
+ Xoa hoan toan thu muc Books
+ Khong the doi ten thu muc Books thanh ten khac
+ Chi hien thi thong tin ve thu muc Books va khong co gi xay ra neu bam nut Yes hoac No
+93. Trong he dieu hanh Windows, de phuc hoi tat ca cac doi tuong trong Recycle Bin (thung rac) ta nhay phai chuot tai Recycle Bin va chon lenh:
+ Delete
+ Restore
+ Redo
+ Undo Delete
+94. Tim cau sai trong cac cau duoi day:
+ He dieu hanh dam bao giao tiep giua nguoi dung va may tinh
+ Chuc nang chinh cua he dieu hanh la thuc hien tim kiem thong tin tren Internet
+ He dieu hanh cung cap cac phuong tien va dich vu de nguoi su dung de dang thuc hien chuong trinh, quan li chat che, khai thac cac tai nguyen cua may tinh mot cach toi uu
+ He dieu hanh Windows la he dieu hanh dung cho may tinh ca nhan cua hang Microsoft
+95. Control Panel trong he dieu hanh Windows la gi?
+ La tap hop cac chuong trinh dung de cai dat cac tham so he thong nhu phong chu, may in, ...
+ La tap hop cac chuong trinh dung de quan li cac phan mem ung dung
+ La tap hop cac chuong trinh dung de thay doi cac tham so cua cac thiet bi phan cung nhu chuot, ban phim, man hinh, ...
+ Cac ý tren deu dung
+96. Muon thay doi cac thong so khu vuc trong he dieu hanh Windows nhu mui gio, don vi tien te, cach viet so, ... ta su dung chuong trinh nao trong cac chuong trinh sau?
+ Microsoft Paint
+ Control Panel
+ System Tools
+ Caculator
+97. Trong cac phat bieu sau, phat bieu nao khong chinh xac?
+ Di chuot (Mouse move): Di chuyen con tro chuot den mot vi tri nao do tren man hinh
+ Nhay chuot (Click): Nhan mot lan nut trai chuot (nut ngam dinh) roi tha ngon tay, con goi la kich chuot
+ Nhay phai chuot (Mouse right): Nhan mot lan nut phai chuot va tha tay
+ Nhay dup chuot (Double click): Nhay nhanh hai lan lien tiep nut trai chuot
+98. Trong he dieu hanh Windows, thanh hien thi ten chuong trinh va nam tren cung cua mot cua so duoc goi la
+ Thanh cong cu chuan (Standard Bar)
+ Thanh tieu de (Title Bar)
+ Thanh trang thai (Status Bar)
+ Thanh cuon (Scroll Bar).
+99. Trong he dieu hanh Windows, thao tac Drag and Drop (keo tha chuot) duoc su dung khi ta:
+ Mo thu muc
+ Thay doi mau nen cho cua so hien hanh
+ Di chuyen doi tuong den vi tri moi
+ Xem thuoc tinh cua tep hien tai
+100. Duong tat (Shortcut) la gi?
+ La chuong trinh duoc cai dat vao may tinh giup nguoi dung khoi dong may tinh nhanh chong
+ La bieu tuong giup nguoi dung truy cap nhanh vao doi tuong thuong su dung
+ La bieu tuong de mo cua so My Computer
+ La chuong trinh duoc cai dat vao may tinh voi muc dich ho tro nguoi su dung soan thao cac van ban tieng viet
+101. WWW la viet tat cua _____
+ World Wide Wed
+ World Wide Web
+ World Wild Wed
+ Word Wide Web
+102. World Wide Web la gi?
+ La mot he thong cac may chu cung cap thong tin den bat ky cac may tinh nao tren Internet co yeu cau
+ La may dung de dat trang Web tren Internet
+ La mot dich vu cua Internet
+ La mot website
+103. Chuong trinh dung de xem cac trang Web duoc goi la _____
+ Trinh duyet Web
+ Bo duyet Web
+ Chuong trinh xem Web
+ Phan mem xem Web
+104. Ten mien gov.vn duoc dung cho _____
+ Chinh phu, cac co quan hanh chinh, to chuc nha nuoc tren lanh tho Viet Nam.
+ Tat ca cac co quan, to chuc...
+ Cac don vi, to chuc giao duc
+ Cac to chuc phi chinh phu.
+105. Muc dich chinh cua viec dua ra ten mien
+ De nho
+ Ten mien dep hon dia chi IP
+ Thieu dia chi IP
+ Ten mien de xu lý boi may tinh hon
+106. Dia chi Website nao sau day khong hop le?
+ www.hochiminh.gov.vn
+ dhbk.hochiminh.edu.vn
+ www@hochiminh.net.vn
+ www.hochiminh.com.vn
+107. Dau khong phai la Trinh duyet Web?
+ Mozilla Firefox
+ Google Chrome
+ Apple Safari
+ Adobe Flash
+108. Ten mien edu.vn duoc dung cho _____
+ Chinh phu, cac co quan hanh chinh, to chuc nha nuoc tren lanh tho Viet Nam.
+ Tat ca cac co quan, to chuc...
+ Cac don vi, to chuc giao duc tren lanh tho Viet Nam
+ Cac to chuc phi chinh phu.
+109. Trong linh vuc Cong nghe thong tin, ISP la viet tat cua _____
+ Internet Service Provider
+ International Specialty Products
+ Internet Server Provider
+ International Sports Properties
+110. Trang chu la gi?
+ La mot trang web dau tien cua Website
+ La tap hop cac trang web co lien quan den nhau
+ La dia chi cua Website
+ La mot may chu
+111. Web Server la gi?
+ La may chu dung de dat cac trang Web tren Internet
+ La may tinh dang duoc su dung de xem noi dung cac trang web
+ La mot dich vu cua Internet
+ La mot website
+112. IAP(Internet Access Provider) la gi?
+ La nha cung cap dich vu Internet
+ La nha cung cap cong truy cap Internet cho cac mang
+ La nha cung cap thong tin tren Internet
+ La nha cung cap may chu
+113. ISP(Internet Service Provider) la gi?
+ La nha cung cap dich vu Internet
+ La nha cung cap cong truy cap Internet cho cac mang
+ La nha cung cap thong tin tren Internet
+ La nha cung cap may chu
+114. Web site la _____
+ Ket hop nhieu trang Web tren nhieu dia chi khac nhau
+ Ket hop nhieu trang Web tren mot dia chi duy nhat
+ La mot trang Web khi mo
+ Tat ca cac ý tren
+115. Dieu kien de ket noi vao Internet qua duong day dien thoai co dinh la:
+ Phai co may tinh
+ Phai co thue bao dien thoai co dinh
+ Phai co modem
+ Ca 3 cau deu dung
+116. Mang lntranet la gi?
+ La mot mang may tinh noi giua 2 may voi nhau
+ La su ket noi cac may tinh cua nhieu co quan
+ La su ket noi cac may tinh tren pham vi toan cau
+ La mot cai may tinh
+117. HTTP la gi?
+ La giao thuc truyen sieu van ban
+ La ngon ngu de soan thao noi dung cac trang Web
+ La dia chi cua trang Web
+ La ten cua trang Web
+118. Khi lam viec tren mot du an cua truong hoc, viec lam mot bai thuyet trinh truc tuyen cho nhung doi tuong khac cung biet la mot vi du cua ______
+ Thu thap thong tin
+ To chuc thong tin
+ Danh gia thong tin
+ Chia se thong tin
+119. Khi muon lay cac noi dung tu mang xuong may tinh, ta su dung lua chon nao?
+ Gui thu
+ Tai xuong
+ Tai len
+ Ket noi den ung dung khac
+120. Sap xep theo thu tu cac thao tac de dang nhap vao hop thu dien tu da co: 1. Go ten dang nhap va mat khau 2. Truy cap vao trang Web cung cap dich vu thu dien tu 3. Mo Internet 4. Nhay chuot vao nut Dang nhap
+ 1 - 2 - 3 - 4
+ 3 - 2 - 1 - 4
+ 4 - 3 - 2 - 1
+ 2 - 3 - 1 - 4
+121. Trinh bay cu phap dia chi thu dien tu tong quat?
+ lop9b > @ < yahoo.com>
+ <Ten dang nhap > @ < Ten may chu luu hop thu>
+ <Ten dang nhap > @ < gmail.com>
+ <Ten dang nhap>
+122. Nha cung cap dich vu thu dien tu la:
+ www.google.com.vn
+ www.yahoo.com
+ www.gmail.com
+ B va C dung
+123. Dia chi thu dien tu duoc phan cach boi ki hieu:
+ $
+ @
+ #
+ &
+124. De tao mot hop thu dien tu moi:
+ Nguoi su dung phai co su cho phep cua co quan quan lý dich vu Internet
+ Nguoi su dung phai co it nhat mot dia chi Website
+ Nguoi su dung khong the tao cho minh mot hop thu moi
+ Nguoi su dung co the dang ký qua cac nha cung cap dich vu Internet hoac thong qua cac dia chi Website mien phi tren Internet tai bat ky dau tren the gioi
+125. Email la viet tat cua
+ Exchange Mail
+ Electronic Mail
+ Electrical Mail
+ Else Mail
+126. Thu muc mac dinh duoc hien thi sau khi dang nhap thanh cong vao hop thu ca nhan
+ Hop thu di
+ Hop thu den
+ Thu da gui (Muc da gui)
+ Hop thu nhap
+127. Trong soan thao Email, muon dinh kem tap tin ta bam nut nao?
+ File – Save
+ Copy
+ Attachment
+ Send
+128. Thu dien tu la gi?
+ Hinh thuc gui cac thiet bi dien tu qua duong buu dien
+ Hinh thuc gui thu qua moi truong Internet
+ Hinh thuc gui thu den cac nha cung cap dien
+ Hinh thuc chuyen cac thiet bi dien tu qua duong Internet
+129. Loi the noi troi cua thu dien tu so voi thu gui qua duong buu dien la gi?
+ Thu dien tu luon co do an toan du lieu cao hon
+ Co the chuyen duoc luong van ban lon hon nho chuc nang gan kem
+ Toc do chuyen thu nhanh
+ Thu dien tu luon luon duoc phan phat
+130. Dia chi email nao sau day dung dinh dang?
+ Internet.@.gmail.com
+ Trungtamdientoan@$.yahoo.com
+ photoshop@t5#.ymail.com
+ bachkhoa@hotmail.com
+131. Muc To khi gui email co ý nghia gi?
+ Dien tieu de cua email
+ Dien dia chi email cua ban de nguoi nhan biet ai la nguoi gui
+ Dien dia chi email cua mot hoac nhieu nguoi nhan
+ Khong de lam gi ca
+132. Dien dia chi email vao muc Cc - Carbon Copy de lam gi?
+ Sao chep email thanh ban giay than de luu tru lai
+ Gui mot ban sao email cho nguoi nhan, cho phep tat ca nhung nguoi nhan khac thay dia chi email cua nguoi nhan nay
+ Gui mot ban sao email cho nguoi nhan, khong cho phep nhung nguoi nhan khac thay duoc dia chi email cua nguoi nhan nay
+ Sao chep email thanh ban bi mat de luu tru lai
+133. Dien dia chi email vao muc Bcc - Blind Carbon Copy thi sao?
+ Gui mot ban sao email cho nguoi nhan, cho phep tat ca nhung nguoi nhan khac thay duoc dia chi email nay
+ Sao chep email thanh ban bi mat de luu tru lai
+ Sao chep email thanh ban giay than de luu tru lai
+ Gui mot ban sao email cho nguoi nhan, khong cho nhung nguoi nhan khac duoc thay duoc dia chi email nay
+134. Dieu gi xay ra khi chuyen tiep - Forward mot email ban nhan duoc?
+ Mot ban sao "Copy" cua email se duoc gui toi nguoi nhan
+ Ban chi duoc chuyen tiep "Forward" email neu nguoi gui ban dau cho phep
+ Email se duoc gui toi nguoi nhan va xoa khoi hop thu den "Inbox"
+ Mot ban sao "Copy" cua email se duoc gui toi Nguoi gui ban dau
+135. Khi ban chuyen tiep email, nhung ai se nhan duoc ban sao nay?
+ Nguoi gui ban dau
+ Ca nguoi nhan va nguoi gui ban dau
+ Nguoi nhan
+ Khong ai nhan duoc email chuyen tiep
+136. Khi chuyen tiep email co dinh kem tap tin, dieu gi se xay ra?
+ Email va tep dinh kem se duoc gui rieng thanh 2 email khac nhau
+ Mot ban copy cua email va tat ca tep dinh kem se duoc gui toi nguoi nhan
+ Email se duoc gui toi nguoi nhan, nhung tap tin dinh kem khong duoc gui di
+ Khong chuyen tiep email co dinh kem tap tin duoc
+137. Khi tra loi email, tieu de - Subject cua email thuong co them tien to gi?
+ Tieu de khong thay doi
+ RE - Viet tat cua tu Reply - Dap lai
+ AN - Viet tat cua tu Answer - Tra loi
+ FW – Viet tat cua tu Forward – Chuyen tiep
+138. Tieu de khi chuyen tiep email thuong co them tien to gi?
+ Tieu de khong thay doi
+ CC - Viet tat cua tu Carbon Copy
+ FW hoac FWD - Viet tat cua tu Forward
+ RE - Viet tat cua tu Reply - Dap lai
+139. Neu "Reply" nguoi gui ban dau sau khi da chuyen tiep email do cho nguoi khac, lieu nguoi gui ban dau co xem duoc email chuyen tiep khong?
+ Dieu nay khong xay ra vi do la 2 thao tac khac nhau
+ Dieu nay co the xay ra voi mot so dich vu email, ban nen can than xem truoc noi dung khi tra loi
+ Ban khong the tra loi nguoi gui ban dau sau khi da chuyen tiep email do
+ He thong may chu Email khong co ho tro chuc nang nay
+140. Toi muon gui email giong nhau cho nhieu nguoi, nhung moi nguoi deu nhan duoc loi chao dung ten rieng cua ho, thi lam the nao?
+ Dung Auto reply - Tu dong tra loi
+ Dung Mail merge - Hop nhat email
+ Dung Mail combine - Ghep email
+ Khong lam duoc cho du co ket hop voi ung dung khac
+141. Web tinh la cac trang web _____
+ Co noi dung khong thay doi
+ Chi co mot trang duy nhat
+ Khong co video hay anh dong
+ Khong co cac lien ket den cac trang web khac
+142. Web dong la cac trang web _____
+ Co kha nang tuong tac giua nguoi dung va may chu
+ Co nhieu video, anh dong
+ Co nhieu lien ket den cac trang khac
+ Thay doi theo tung ngay
+143. Nguoi su dung khong the tu lap duoc hop thu dien tu nao:
+ Google Mail
+ Yahoo Mail
+ Thu dien tu cua truong Dai hoc Bach Khoa
+ Hotmail
+144. Voi thu dien tu, phat bieu nao la sai?
+ Co the gui 1 thu den 10 dia chi khac nhau .
+ 1 nguoi co the gui thu cho chinh minh, nhieu lan.
+ Hai nguoi co the co dia chi thu giong nhau.
+ Tep tin dinh kem theo thu co the chua virut, vay nen can kiem tra virut truoc khi su dung.
+145. Chuc nang nao khong ho tro khi dung email mien phi tai gmail.com
+ Doi ten dang nhap
+ Doi mat khau
+ Dinh kem tap tin theo thu
+ In thu ra may in
+146. Hai nguoi da tao duoc tai khoan thu mien phi tai dia chi gmail.com. Phat bieu nao la sai?
+ Hop thu cua ca hai deu nam tren may Mail Server cua cong ty Google.
+ Mat khau mo hop thu cua hai nguoi nay phai khac nhau.
+ Hai nguoi nay buoc phai lua chon hai ten dang nhap khac nhau.
+ Nguoi nay co the mo duoc hop thu cua nguoi kia va nguoc lai neu nhu 2 nguoi biet ten dang nhap va mat khau cua nhau.
+147. Chon ra khang dinh sai: “Ten mien cua cac website co may chu dat tai Viet Nam thi _____”
+ Bat buoc phai la Tieng Viet khong dau (hoac Tieng Anh)
+ Phai duy nhat va duoc mot to chuc quan lý ten mien dong ý va cho phep
+ Nhom cuoi cung cua ten mien thuong dung cum tu “.vn”
+ Khong duoc co khoang trang trong ten mien
+148. Thuat ngu ky thuat trong mua va ban hang qua mang Internet la gi ?
+ He thong dien tu (E-system)
+ Mang dien tu (E-network)
+ Thuong mai dien tu (E-commerce)
+ Thuong mai Internet (I-Commerce)
+149. Internet anh huong van de gi den moi truong hoc tap?
+ Viec hoc tu xa (dao tao qua mang) gia tang
+ So luong giang vien duoc dao tao gia tang
+ Chat luong tai lieu nghien cuu duoc nang cao
+ Su tuong tac giua giao vien va hoc sinh duoc tang cuong
+150. Ban nhan duoc mot buc thu dien tu chua tep tin dinh kem ma ban khong nhan biet ra. Nhung buoc hanh dong tot nhat nao ban se thuc hien tu khia canh an ninh
+ Mo tep tin nay ra de kiem tra loai tep tin
+ Chuyen thu nay cho ai do ma ban nghi rang ban co the nhan biet duoc
+ Quet tap tin nay bang chuong trinh chong virus
+ Luu ban sao tap tin nay vao dia cung va mo ban sao nay
+151. Trong Microsoft Word, to hop phim nao sau day chon toan bo tai lieu?
+ Alt+A
+ Shift+Ctrl+A
+ Ctrl+A
+ Alt+F8
+152. Trong Microsoft Word, to hop phim tat de di chuyen con tro ve cuoi tai lieu?
+ Ctrl+End
+ Ctrl+Page Down
+ End
+ Page Down
+153. Phim nao sau day dua con nhay ve dau dong hien hanh trong Microsoft Word?
+ Ctrl+Home
+ Ctrl+Page Up
+ Home
+ End.
+154. Phim tat de di chuyen con tro ve dau tai lieu trong Microsoft Word?
+ Ctrl+End
+ Ctrl+Home
+ Home
+ Ctrl+Page Up
+155. Trong Microsoft Word, cau nao sau day la khong dung trong truong hop dinh dang doan - Paragraph?
+ Bam nut Center tren thanh cong cu se canh doan hien hanh hoac da chon vao giua trang.
+ Khoang cach canh cot mac nhien la ½ inch.
+ Khi dat mot nut canh cot no se co tac dung tren tat ca cac doan van ban trong tai lieu.
+ Hai loai canh le dac biet la: First Line va Hanging trong Paragraph.
+156. Voi Microsoft Word, de dinh dang hinh anh voi van ban, ta an chuot phai vao hinh anh va chon _____
+ AutoShape
+ Format AutoShape
+ Format Picture
+ Auto Picture
+157. Cach nhanh nhat de chon mot tu trong Microsoft Word?
+ Keo chuot qua tu do.
+ Di chuyen diem nhay den chu dau, giu phim shift va dung cac phim mui ten.
+ Bam chon chuc nang Select Word Wizard tren thanh cong cu va lam theo huong dan.
+ Nhap dup vao tu.
+158. Trong Microsoft Word, thao tac nao de sao chep dinh dang va ap dat dinh dang cho nhieu dong lien tiep ?
+ Bam nut Format Painter tren thanh cong cu.
+ Bam dup nut Format Painter tren thanh cong cu. .
+ Khong thuc hien duoc.
+ Mo hop thoai Copy and Apply Formatting bang cach dung lenh Format - Copy Formatting tu menu.
+159. Phat bieu nao sau day la dung khi su dung phim Enter trong Microsoft Word?
+ Ket thuc doan van hien tai va bat dau mot doan van moi.
+ Tai lieu se sang trang moi.
+ Doan van se qua dong moi nhung chua ket thuc doan.
+ Neu da chia cot thi doan van se bi cat qua cot moi.
+160. Trong Microsoft Word, su dung to hop phim Shift+Enter co chuc nang gi?
+ Ket thuc doan van hien tai va bat dau mot doan van moi.
+ Tai lieu se sang trang moi.
+ Doan van se qua dong moi nhung chua ket thuc doan.
+ Neu da chia cot thi doan van se bi cat qua cot moi.
+161. Trong Microsoft Word, su dung to hop phim Ctrl+Enter co chuc nang gi?
+ Ket thuc doan van hien tai va bat dau mot doan van moi.
+ Tai lieu se sang trang moi.
+ Doan van se qua dong moi nhung chua ket thuc doan.
+ Neu da chia cot thi doan van se bi cat qua cot moi.
+162. Trong Microsoft Word, de nhap du lieu va di chuyen trong table, phat bieu nao sau day la dung?
+ Tab de di chuyen qua o ke tiep, Shift+Tab de di theo huong nguoc lai.
+ Enter de di chuyen qua o ke tiep, Shift+enter de di theo huong nguoc lai.
+ Mui ten phai de di chuyen qua o ke tiep, mui ten trai de di theo huong nguoc lai.
+ Mui ten len de di chuyen qua o ke tiep, mui ten xuong de di theo huong nguoc lai.
+163. Trong Microsoft Word, Style la gi?
+ Cung nghia voi style trong the gioi thoi trang.
+ Mot tap hop cac dinh dang luu tru thanh mot ten goi rieng va de dang ap dat len cac doi tuong khac bang mot thao tac duy nhat.
+ Mot loai tai lieu dac biet.
+ Mot thanh phan dinh dang chi dung trong trang Web.
+164. Cach nao sau day dung de chon nhieu doi tuong tren tai lieu trong Microsoft Word?
+ Bam nut Select Object tren thanh cong cu, bam cac doi tuong can chon, nhan enter khi chon xong.
+ Giu phim Shift khi chon moi doi tuong.
+ Chi co the chon mot doi tuong moi lan.
+ Bam nut mui ten tren thanh cong cu Drawing va keo mot hinh chu nhat bao quanh cac doi tuong can chon.
+165. Trong Microsoft Word cac thanh phan Block Arrows, Stars and Banners, va Callouts la cac vi du cua _____
+ Cac kieu tro choi xay dung cua tre em.
+ Cac chu de Clip art trong bo suu tap Microsoft Clip Gallery.
+ Cac chu de AutoShape .
+ Mot thuat ngu ky thuat chua xac dinh.
+166. Khi soan thao van ban trong Microsoft Word, de khai bao thoi gian tu luu van ban, ta thuc hien _____
+ File - Options - Save chon thoi gian tai muc Save AutoRecover info every
+ Home - Options - Save chon thoi gian tai muc Save AutoRecover info every
+ View - Options - Save chon thoi gian tai muc Save AutoRecover info every
+ Insert - Options - Save chon thoi gian tai muc Save AutoRecover info every
+167. Trong Microsoft Word de chen header hoac footer tren trang van ban, ta thuc hien _____
+ View - Header and Footer
+ The Insert - Header and Footer - nhan nut Header hoac Footer
+ Insert - Header and Footer
+ Format- Header and Footer
+168. Trong Microsoft Word de bat/tat hien thi thanh thuoc ke tren cua so soan thao, ta thuc hien _____
+ View – Ruler
+ View - Outline
+ View - Show/Hide - danh dau/bo danh dau vao muc Ruler
+ The Insert - danh dau vao muc Ruler
+169. Trong Microsoft Word thao tac nao khong the tao diem dung Tabs?
+ Bam chuot trai tren thanh thuoc tai vi tri muon dat Tab
+ The Page Layout - Paragraph - nhan nut mui ten ben duoi – Tabs
+ The Home - Paragraph - nhan nut mui ten ben duoi - Tabs
+ The View – Tabs
+170. Trong Microsoft Word khi luu van ban moi thi phan mo rong cua van ban do o dang nao?
+ *.doc
+ *.docx
+ *.txtx
+ *.pdfx
+171. To hop phim Ctrl+Z trong Microsoft Word dung de:
+ Huy thao tac Dong cua so dang mo
+ Huy ket qua cua thao tac hoac lenh phia truoc gan nhat ket qua hien tai
+ Dong tap tin dang mo
+ Nhay den mot trang van ban
+172. Microsoft Word la mot _____
+ Phan mem he thong
+ Phan mem bang tinh
+ Phan mem quan lý
+ Phan mem ung dung
+173. Tinh nang nao sau day khong dung la cua Microsoft Word?
+ Luu va doc cac tap tin van ban dang .doc, .docx
+ Luu va doc cac tap tin dang .pdf
+ Luu va doc cac tap tin HTML
+ Luu va doc cac tap tin dang .txt
+174. To hop phim tat nao sau day duoc dung de luu van ban trong Microsoft Word?
+ Ctrl+X
+ Ctrl+C
+ Ctrl+V
+ Ctrl+S
+175. Trong Microsoft Word, nut nao sau day duoc dung de su dung chuc nang Tab trong table
+ Tab
+ Shift+Tab
+ Ctrl+Tab
+ Alt+Tab
+176. Trong Microsoft Word, khi giu phim Ctrl va bam chuot trai vao trong van ban co tac dung gi?
+ Chon mot tu tai vi tri con tro
+ Chon mot cau tai vi tri con tro
+ Chon mot doan van tai vi tri con tro
+ Di chuyen con nhay den vi tri con tro
+177. Trong Microsoft Word, WordArt la _____
+ Mot doi tuong chu nghe thuat
+ Mot doi tuong hinh anh
+ Mot doi tuong van ban voi kich thuoc chu to hon binh thuong
+ Mot cong cu dung de ve chu
+178. Trong Microsoft Word, cac duong gach chan xanh-do xuat hien khi go van ban co ý nghia gi?
+ Do may bi nhiem virus
+ Gach mau xanh la do sai chinh ta, mau do la do ngu phap co van de
+ Gach mau xanh la do ngu phap co van de, mau do la do sai chinh ta
+ Word tu dong them cho dep
+179. Trong Microsoft Word, chuc nang nao duoc dung de tron cac o trong bang bieu?
+ Cell Margins
+ Split Cells
+ Mail Merge
+ Merge Cells
+180. Chuc nang Recent trong the File cua Microsoft Word co chuc nang gi ?
+ Xem thong tin van ban hien tai
+ Xem cac van ban da mo gan day
+ Mo ra mot trang van ban moi
+ Xem bo cuc cua van ban truoc khi in
+181. Trong Microsoft Word, phat bieu nao sau day la sai?
+ Mau trang giay cua Word co the doi bang chuc nang Shading
+ Chuc nang Save va Save As la giong nhau khi luu van ban lan dau
+ Chuc nang Paragraph duoc dung de dinh dang 1 hoac nhieu doan van
+ Kich thuoc chu nho nhat ma Word cho phep la 1
+182. Trong soan thao Microsoft Word, don vi do luong nao cua thuoc khong ho tro ?
+ Centimeters
+ Points
+ Inches
+ Pixel
+183. Trong soan thao Microsoft Word, muon trinh bay van ban trong kho giay theo huong ngang ta chon muc
+ Left
+ Portrait
+ Right
+ Landscape
+184. Trong soan thao Microsoft Word, noi dung cua vung header se
+ Duoc in o dau moi trang
+ Duoc in o ben phai moi trang
+ Duoc in o ben trai moi trang
+ Duoc in o cuoi moi trang
+185. Kha nang nao sau day khong co trong Microsoft Word?
+ Ve cac canh cua bang (draw table) co the dung de tach cac o (split cells)
+ Xoa cac canh cua bang co the dung de tron cac o (merge cells)
+ Co the viet chu theo huong xeo trong mot o
+ Co the ve duong vien theo kieu rang cua
+186. Co bao nhieu kieu margin(le) trong mot trang la Microsoft Word?
+ Hai margin: header va footer
+ Bon margin: top, bottom, left, right
+ Hai margin: landscape(ngang) va Portrait (dung)
+ Hai margin: top va bottom
+187. Trong Microsoft Word, cau nao sau day sai?
+ Co the chen van ban (text) vao hau het doi tuong ve (shape)
+ Co the chuyen doi tu doi tuong ve nay thanh doi tuong ve khac nhanh chong
+ Co the nhom (group) cac doi tuong ve voi nhau
+ Co the chia cot cho van ban trong doi tuong Shape
+188. Trong Microsoft Word, cau nao sau day sai?
+ Co the chen cac cong thuc toan hoc vao van ban va giai cac cong thuc nay tu dong
+ Co the chen cac ký tu dac biet co trong cac font chu trong may
+ Co the dinh dang hieu ung chu bang WordArt
+ Co the lam viec voi bang tinh nhu trong Excel
+189. Trong Microsoft Word, de ngat trang ta thuc hien _____
+ The View - Page Break
+ The References - Captions – Break
+ The Review - Create - Page Break
+ The Insert - Pages - Page Break
+190. Trong Microsoft Word, de chen bieu do vao van ban, ta thuc hien:
+ The References - Illustrations - Chart
+ The Insert - Illustrations - Chart
+ The Mailings - Illustrations - Chart
+ The Review - Illustrations - Chart
+191. Trong Microsoft Word, co cac che do in an nao?
+ In toan bo van ban hoac cac trang chan le rieng biet
+ Khong in cac trang duoc chi dinh
+ Co the in hai mat tren bat ky may in nao mot cach tu dong
+ Chi in phan Header/Footer
+192. Trong Microsoft Word, chuc nang nao dung de ngat cot?
+ Chon the Insert - Page Break
+ Su dung phim tat Ctrl+Enter
+ Chon the Page Layout - Breaks - Column
+ Chon the Page Layout - Columns
+193. Trong Microsoft Word, ký hieu tren thanh thuoc co nghia la gi? [Xem hinh]
+ Canh le trai cho doan van
+ Canh le phai cho doan van
+ Canh van ban o mep trai tai vi tri TAB
+ Canh van ban o mep phai tai vi tri TAB
+194. Trong Microsoft Word, ký hieu tren thanh thuoc co nghia la gi? [Xem hinh]
+ Canh le trai cho doan van
+ Canh le phai cho doan van
+ Canh van ban o giua tai vi tri TAB
+ Canh van ban o mep phai tai vi tri TAB
+195. Trong Microsoft Word, ký hieu tren thanh thuoc co nghia la gi? [Xem hinh]
+ Canh le trai cho doan van
+ Canh le phai cho doan van
+ Canh van ban o mep trai tai vi tri TAB
+ Canh van ban o mep phai tai vi tri TAB
+196. Trong Microsoft Word, sau khi chon toan bo van ban trong bang (table) va bam nut Delete thi chuyen gi se xay ra?
+ Xoa toan bo van ban va table
+ Chi xoa toan bo van ban
+ Chi xoa toan bo dinh dang
+ Chi xoa table
+197. Trong Microsoft Word, muon tao chu roi cho van ban, ta thuc hien
+ Page layout – Dropcap
+ View – Dropcap
+ Home – Dropcap
+ Insert – Dropcap
+198. Trong Microsoft Word, phat bieu nao sau day la dung nhat ?
+ Co the dat lai chi muc cua chuc nang Numbering nhung phai qua trang van ban khac
+ Bullets va Numbering deu co chuc nang tuong tu nhau la danh dau dau moi doan van
+ Canh le cua chuc nang Bullets khi duoc tao ra la co dinh va khong the thay doi
+ Khong the su dung hinh anh trong may tinh trong chuc nang Bullets
+199. Trong Microsoft Word, tao Header cho van ban co nghia la?
+ Tao tieu de ben le trai cua van ban
+ Tao tieu de tren dau van ban
+ Tao tieu de ben le phai cua van ban
+ Tao tieu de duoi chan van ban
+200. Chuc nang Home → Clear All Formatting duoc su dung de?
+ Dinh dang ký tu
+ Loai bo toan bo dinh dang
+ Xoa van ban
+ Dinh dang van ban
+201. Tap hop cac bang tinh trong mot file Excel duoc goi la mot
+ Document
+ Presentation
+ Sheet
+ Book
+202. Trong Microsoft Excel, cau nao sau day la dung nhat?
+ Chieu cao cua mot o la doc lap voi cac o khac cung hang
+ Co the an mot hang hoac cot khong cho hien thi
+ Co the an mot o khong cho hien thi
+ Co the tuy chinh do rong cua cac o trong cung mot cot khac nhau
+203. Trong Microsoft Excel, cau nao sau day sai?
+ Tinh nang Auto Fill co the dung de sao chep du lieu
+ Chi auto fill duoc voi cac gia tri so
+ Chuc nang AutoComplete co the tat di duoc
+ Co the dung chuc nang Series voi kieu du lieu ngay
+204. Khi nhap lieu ngay thang trong Microsoft Excel o Viet nam, can phai nhap theo dinh dang nao sau day?
+ dd/mm/yyyy
+ mm/dd/yyyy
+ Tuy theo dinh dang ngay thang cua may tinh
+ Tuy theo qui dinh o Viet nam luc do
+205. Dap an nao sau day sai? Khi nhap du lieu vao bang tinh Microsoft Excel thi:
+ Du lieu kieu so se mac dinh can le trai
+ Du lieu kieu ký tu se mac dinh can le trai
+ Du lieu kieu thoi gian se mac dinh can le phai
+ Du lieu kieu ngay thang se mac dinh can le phai
+206. Trong bang tinh Microsoft Excel, cac kieu du lieu thong dung la:
+ Chuoi, van ban, ngay thang
+ So, logic, ngay thang
+ Cong thuc, ham, so, ngay thang
+ Chuoi, so, logic, ngay thang, kieu cong thuc
+207. Trong bang tinh Microsoft Excel, dieu kien trong ham IF duoc phat bieu duoi dang mot phep so sanh. Khi can so sanh khac nhau thi su dung ký hieu nao?
+ Dau “#”
+ Dau “&”
+ Dau “<>”
+ Dau “><”
+208. Trong khi lam viec voi Microsoft Excel, de nhap vao cong thuc tinh toan cho mot o, truoc het ta phai go
+ Dau cham hoi (?)
+ Dau hai cham (:)
+ Dau bang (=)
+ Dau do la ($)
+209. Trong Microsoft Excel, dia chi $A3$ la dia chi _____
+ Tuong doi
+ Tuyet doi
+ Hon hop
+ Bieu dien sai
+210. Trong Microsoft Excel, khi viet sai ten ham trong tinh toan, chuong trinh thong bao loi?
+ #VALUE!
+ #N/A
+ #NAME?
+ #DIV/0!
+211. Trong Microsoft Excel, cho bang tinh co vung du lieu [xem hinh] sau khi thuc hien sap xep du lieu theo chieu tang dan, thu tu sap xep nao sau day la dung?
+ A010 - A100 - A011
+ A010 - A011 - A100
+ A100 - A010 - A011
+ A011 - A010 - A100
+212. Trong Microsoft Excel, thanh phan thu 3 trong ham VLOOKUP la gi?
+ Bang do
+ Cach do
+ Cot tham chieu de lay ket qua
+ Dong tham chieu de lay ket qua
+213. Trong bang tinh Microsoft Excel, neu trong mot o tinh co cac ki hieu #####, dieu do co nghia la gi?
+ Hang chua o do co do cao qua thap nen khong hien thi het chu so
+ Cot chua o do co do rong qua hep nen khong hien thi het chu so
+ Tap tin chua bang tinh bi nhiem virus
+ Cong thuc nhap vao o bi sai va Excel thong bao loi
+214. Trong bang tinh Microsoft Excel, de sua du lieu trong mot o tinh ma khong can nhap lai, ta thuc hien:
+ Chon o tinh can sua, roi bam phim F2
+ Chon o tinh can sua, roi bam phim F1
+ Chon o tinh can sua, roi bam phim F11
+ Chon o tinh can sua, roi bam phim F12
+215. Tren the Home cua thanh cong cu Riboon trong Microsoft Excel, bieu tuong (Increase Decimal) co ý nghia gi cho vung du lieu duoc lua chon
+ Tang so le thap phan va lam tron so
+ Giam so le thap phan va lam tron so
+ Lam tron so va lay 2 so le thap phan
+ Dinh dang so theo kieu phan lop
+216. Tren the Home cua thanh cong cu Riboon trong Microsoft Excel, bieu tuong (Decrease Decimal) co ý nghia gi cho vung du lieu duoc lua chon
+ Tang so le thap phan va lam tron so
+ Giam so le thap phan va lam tron so
+ Lam tron so va lay 2 so le thap phan
+ Dinh dang so theo kieu phan lop
+217. Cho bang so lieu nhu sau trong Microsoft Excel: [Xem hinh] Cho biet kieu dinh dang hien thi du lieu ngay nao sau day duoc ap dung tai o B1
+ ddd d-m-yy
+ ddd dd-mm-yyyy
+ dddd dd-mm-yyyy
+ dddd dd-mmm-yyyy
+218. Trong Microsoft Excel, de tim cac so thoa dieu kien =5 va =10, ta dung :
+ Ham IF va ham AND
+ Ham IF va ham OR
+ Ham IF va ham NOT
+ Ham IF va ký tu &
+219. Trong bang tinh Microsoft Excel, de bieu dien so lieu dang phan tram, su dung bieu do kieu nao duoi day la hop lý nhat:
+ Bieu do cot dung (Column)
+ Bieu do dang thanh (Bar)
+ Bieu do duong gap khuc (Line)
+ Bieu do dang quat tron (Pie)
+220. Trong Microsoft Excel, ham OR la mot ham logic. Ham cho gia tri dung (true) khi?
+ Co it nhat hai bieu thuc dieu kien cua ham co gia tri dung
+ Tat ca cac bieu thuc dieu kien cua ham deu phai co gia tri dung
+ Chi can mot bieu thuc dieu kien nao do cua ham co gia tri dung
+ Tat ca cac bieu thuc dieu kien cua ham deu phai co gia tri sai
+221. Tinh nang nao sau day khong dung la cua Microsoft Excel?
+ Luu va doc cac tap tin van ban dang .xls, .xlsx
+ Luu va doc cac tap tin dang .WMV
+ Luu va doc cac tap tin HTML
+ Luu va doc cac tap tin .XPS
+222. Khi quan lý sheet trong Microsoft Excel, co the ________
+ Doi mau sheet tab nhung khong duoc trung mau nhau
+ Xoa cung luc nhieu sheet mien chung gan nhau
+ Sao chep/di chuyen/doi ten mot sheet
+ Tao them mot Sheet voi ten trung voi ten Sheet da co
+223. Trong Microsoft Excel, cau nao sau day la sai?
+ Co the tim kiem mot gia tri trong sheet hien tai hay trong toan workbook
+ Co the tim kiem cac du lieu phu hop voi ca noi dung va dinh dang
+ Co the tim theo hang truoc hay cot truoc
+ Co the tim kiem cong thuc
+224. Trong Microsoft Excel, giai thich nao sau day la sai?
+ ####: khong tinh duoc ket qua
+ #VALUE!: du lieu khong dung theo yeu cau cua cong thuc
+ #DIV/0!: chia cho gia tri 0
+ #N/A: khong co du lieu de tinh toan
+225. Trong Microsoft Excel, giai thich nao sau day la sai?
+ #DIV/0! la loi chia cho so 0
+ #NAME? la Excel khong hieu cac ten tham khao den
+ #REF! la tham khao den vung khong hop le
+ #N/A! La cong thuc dua vao bi loi
+226. Gia su bay gio dang la 10 gio 32 phut 00 giay, ngay 31/12/2016, cac cong thuc Microsoft Excel nao sau cho ket qua sai?
+ =TODAY() co ket qua 31/12/2016
+ =NOW() co ket qua 31/12/2016 10:32:00
+ =DATE(TODAY()) co ket qua 31
+ =MONTH(NOW()) co ke qua la 12
+227. Trong Microsoft Excel, khi sao chep o A3 dang chua cong thuc =$A1 + B$1 den o C5, cong thuc trong o C5 se la:
+ =$A3 + D$1
+ =$B3 + E$1
+ =$C3 + F$1
+ =$A3 + D1
+228. Cho mot worksheet nhu hinh ben [Xem hinh], ket qua cua cong thuc =VLOOKUP(4, A1:B5, 2,0) la?
+ TB
+ Kha
+ Yeu
+ #N/A
+229. Trong Microsoft Excel, ket qua cong thuc nao sau day la dung nhat?
+ =COUNT(“A”, “B”, 1,2) la 4
+ =COUNTA(“A”, “B”, 1,2) la 2
+ =COUNTA(“A”, “B”, 1,2) la 4
+ =COUNT(“A”, “B”, 1, 2) la 3
+230. Trong Microsoft Excel, de nhap mot gia tri dang ngay (date) vao mot o nao do ta phai _____
+ Nhap phu hop voi dang ngay da thiet lap trong Control Panel
+ Nhap theo dang dd/mm/yyyy
+ Nhap theo dang mm/dd/yyyy
+ Nhap theo dang yyyy/mm/dd
+231. Cong thuc MIN(2*4,24,6,9-3) cho ket qua la:
+ 8
+ 6
+ 4
+ 24
+232. Cho biet ket qua cong thuc sau day: LEFT ("DANG THI TIN HOC", 3)
+ DAN
+ THI
+ HOC
+ TIN
+233. Cho biet gia tri cua cong thuc sau day: IF(AND(5>3,2>=2),2,3)
+ 2
+ 3
+ Cong thuc co loi cu phap
+ FALSE
+234. Cho biet ket qua cong thuc sau day: RIGHT("TIN HOC CAN BAN",3)
+ TIN
+ CAN
+ BAN
+ HOC CAN BAN
+235. Gia tri cua cong thuc MOD(45,7)
+ 6
+ 0
+ 3
+ 1
+236. Trong Microsoft Excel, cau lenh =SUM(7, 5, -3, 2, 9, -4) co ket qua la:
+ 15
+ 16
+ 17
+ 18
+237. Trong bang tinh Microsoft Excel, tai o A2 co san gia tri so 10; tai o B2 go vao cong thuc =PRODUCT(A2,5) thi nhan duoc ket qua:
+ #VALUE!
+ 2
+ 10
+ 50
+238. Trong bang tinh Microsoft Excel, tai o A2 co san du lieu la day ki tu "Tin hoc co ban", tai o B2 go vao cong thuc =PROPER(A2) thi nhan duoc ket qua?
+ Tin hoc co ban
+ Tin hoc Co ban
+ TIN HOC CO BAN
+ Tin Hoc Co Ban
+239. Gia su ngay he thong cua may tinh la: 19/9/2013, khi do tai o A2 go vao cong thuc =Today()-1 thi nhan duoc ket qua la:
+ 18/9/2013
+ #VALUE!
+ #NAME!
+ 20/9/2013
+240. Trong bang tinh Microsoft Excel, tai o A2 co san du lieu la day ki tu "Tin hoc co ban" , tai o B2 go vao cong thuc =LOWER(A2) thi nhan duoc ket qua?
+ TIN HOC CO BAN
+ Tin hoc co ban
+ tin hoc co ban
+ Tin Hoc Co Ban
+241. Trong bang tinh Microsoft Excel, ham nao sau day cho phep tinh tong cac gia tri kieu so thoa man mot dieu kien cho truoc?
+ SUM
+ COUNTIF
+ COUNT
+ SUMIF
+242. Trong Microsoft Excel cu phap ham SUMIF nao la dung?
+ SumIf(range, criteria,[sum_range])
+ SumIf( criteria,range,[sum_range])
+ SumIf(range)
+ SumIf(range,criteria)
+243. Trong Microsoft Excel, gia su o A1 cua bang tinh luu tri ngay 15/10/2018. Ket qua ham =MONTH(A1) la bao nhieu?
+ #VALUE!
+ 15
+ 10
+ 20
+244. Voi cong thuc = MAX(20,MIN(5,100)) cho ket qua la
+ 5
+ 100
+ 20
+ #N/A
+245. Trong Excel, tai o A2 co gia tri la so 2018. Tai o B2 go cong thuc =LEN(A2) thi nhan duoc ket qua?
+ #Value!
+ 0
+ 4
+ 2018
+246. Voi bang so lieu duoi day trong Microsoft Excel cong thuc de tinh luong tai o C2 nhu the nao voi yeu cau. Luong= HSL* Luong co ban va lam tron chan don vi nghin dong
+ =ROUND(B2 *B$4,-4)
+ =ROUND(B2 *B$4,3)
+ =ROUND(B2 *B4,-3)
+ =ROUND(B2 *B$4,-3)
+247. Trong Microsoft Excel, cong thuc nao sau day se cho loi #VALUE!?=COUNTA("A",13,4)
+ =MAX("A",13,4)
+ =COUNTIF(D7:D18,"A")
+ =COUNTA("A",13,4)
+
+248. Trong Microsoft Excel, de xoa du lieu trong cac o dang chon thi ta dung cach nao?
+ Tai the Home, nhan nut Delete trong nhom Cells
+ Nhan phai chuot va chon lenh Clear contents
+ Nhan chuot phai len vung dang chon, chon lenh Delete
+ Nhan phim BackSpace
+249. Phat bieu nao sau day la sai?
+ Trong Microsoft Excel, de lap trinh cong thuc tinh toan thi phai bat buoc nhap dau = o dau
+ Tat ca cac ham trong Microsoft Excel deu co doi so
+ Cac tham so trong ham duoc phan cach nhau bang dau phay hoac dau cham phay tuy theo cach thiet lap
+ Trong mot cong thuc co the su dung nhieu ham
+250. Trong bang tinh Excel, muon sap xep danh sach du lieu theo thu tu tang (giam), ta thuc hien:
+ Tools – Sort
+ File – Sort
+ Data – Sort
+ Format - Sort
+251. Trong PowerPoint, cac hieu ung dong dang Entrance(mau xanh la) la hieu ung _____
+ Xuat hien
+ Nhan manh
+ Bien mat
+ Di chuyen
+252. Trong PowerPoint, cac hieu ung dong dang Emphasis(mau vang) la hieu ung _____
+ Xuat hien
+ Nhan manh
+ Bien mat
+ Di chuyen
+253. Trong PowerPoint, cac hieu ung dong dang Exit (mau do) la hieu ung _____
+ Xuat hien
+ Nhan manh
+ Bien mat
+ Di chuyen
+254. Trong PowerPoint, cac hieu ung dong dang Motion Path la hieu ung _____
+ Xuat hien
+ Nhan manh
+ Bien mat
+ Di chuyen
+255. Chuc nang nao sau day khong co trong PowerPoint?
+ Column
+ Equation
+ Header & Footer
+ DropCap
+256. Trong PowerPoint, khang dinh nao sau day la sai ve vung ghi chu (Note Page) cua PowerPoint?
+ Khong duoc hien thi khi thuyet trinh o che do binh thuong
+ Co the chen cac doi tuong hinh anh vao vung ghi chu
+ Co the in vung ghi chu khi in bai thuyet trinh
+ Nguoi thuyet trinh khong the xem noi dung trong vung ghi chu khi bat dau thuyet trinh
+257. Trong PowerPoint, thong so nao khong co trong chuc nang Animation - Timing cua PowerPoint?
+ Time
+ Repeat
+ Duration
+ Delay
+258. Trong PowerPoint, phat bieu nao sau day la sai ?
+ SmartArt se tu dong tuy chinh kich cu chu de vua voi kich thuoc
+ Co the chuyen doi qua lai giua SmartArt va Shapes
+ Tuy chinh cac doi tuong SmartArt cung tuong tu nhu Shapes
+ Co the them/bot cac thanh phan trong SmartArt tuy ý
+259. Chuc nang Photo Album trong PowerPoint duoc dung de
+ Luu tap tin trinh chieu duoi dang danh sach cac anh de xem
+ Chen 1 doi tuong hinh anh vao Slide
+ Tao mot danh sach anh de su dung cho buoi trinh chieu
+ Dong goi cac slide trinh chieu thanh mot tap tin anh
+260. PowerPoint khong ho tro luu voi dinh dang nao duoi day
+ PDF
+ PPTX
+ TXT
+ WMV
+261. Chuc nang nao vua co trong Word vua co trong PowerPoint?
+ Action Buttons
+ DropCap
+ Subscript
+ Column
+262. Trong PowerPoint, chuc nang Duration trong hieu ung chuyen Slide co ý nghia gi?
+ Thoi gian cho de chay qua Slide khac
+ Thoi gian de Slide xuat hien hoan chinh
+ Thoi gian de ket thuc Slide
+ Thoi gian cho de chay hieu ung cho cac doi tuong trong slide
+263. Trong PowerPoint, Effect Option la chuc nang dung de _____
+ Them hieu ung dong cho doi tuong
+ Them hieu ung chuyen Slide
+ Them lien ket cho doi tuong
+ Thay doi huong di chuyen cua hieu ung
+264. Trong PowerPoint, phim nao duoc dung de dung bai trinh chieu khi dang trinh dien?
+ End
+ Page Down
+ Home
+ Esc
+265. Trong PowerPoint, de chinh chieu cua Slide, ta su dung chuc nang
+ Home - Arrange
+ Design - Page Setup
+ Preview - Compare
+ View - Slide Master
+266. Trong PowerPoint, De thiet lap cac thong so trang in ta thuc hien
+ Chon File -> Page Setup
+ Chon File -> Print
+ Chon File -> Print Preview
+ Chon File -> Properties
+267. Trong PowerPoint, khi chen mot doi tuong am thanh vao Slide, chuc nang nao trong the PlayBack duoc dung de chay bai nhac qua tat ca cac Slide? Start - Automatically
+ Start - On Click
+ Start - Play across slides
+ Loop Until Stopped
+ Enter – Play across slides
+268. Trong Powerpoint, muon tao ra 1 slide moi ta dung lenh nao trong the Home – Slides khong the su dung duoc?
+ New slide
+ Duplicate selected
+ Slide from text
+ New Section
+269. Trong Powerpoint, thao tac chon File – Close dung de
+ Dong tap tin hien tai
+ Thoat khoi Powerpoint
+ Luu tap tin hien tai
+ Mo mot tap tin co san trong may
+270. De to mau nen cho Powerpoint ta thuc hien _____
+ Insert – Background – Background Style
+ Home – Background – Background Style
+ Design – Background – Background Style
+ View – Background – Background Style
+271. Trong Powerpoint, che do view nao giup ta lam viec tot nhat voi cac chuyen canh khi thiet ke (Slide transitions)?
+ Notes Pages
+ Normal
+ Reading View
+ Slide Sorter
+272. Chuc nang nao trong nhom cong cu sau dung de trinh chieu slide dang thiet ke trong Powerpoint [Xem hinh]
+ Normal ()
+ Slode sorter ()
+ Reading view ()
+ Slide show ()
+273. Mot doi tuong Powerpoint co the co bao nhieu hieu ung?
+ Chi co 1 hieu ung
+ Toi da 3 hieu ung
+ Toi da 5 hieu ung
+ Rat nhieu hieu ung
+274. Trong PowerPoint, cac tinh nang nao sau day la khong dung?
+ Co the chup anh man hinh dang lam viec de chen vao slide
+ Cac thanh phan cua mot doi tuong SmartArt van co the the hien hoat hinh (animation)
+ Co the de dang chuyen doi mot SmartArt nay thanh mot dang SmartArt khac
+ Khi chen mot do thi (Chart) co the khong can dung mot bang Excel de chua du lieu
+275. Trong PowerPoint, cau nao sau day la sai.
+ Co nhieu dang slide transition
+ Mot slide chi co toi da mot dang transition
+ Co the thiet lap cac thong so nhu thoi gian bat dau, su kien bat dau cua mot slide transition cho mot slide
+ Khong the sap xep thu tu chay cua cac slide transition neu khong doi thu tu cac slide
+276. Trong PowerPoint, cau nao sau day la sai?
+ Co the tao cac lien ket (hyperlink) den cac slide trong cung mot tap tin
+ Co the nen video, audio dung Compress Media
+ Co the luu mot tap tin trinh chieu thanh mot thiet ke (design theme)
+ Khong the tao mot dang layout moi cho mot tap tin trinh chieu trong Slide Master
+277. Trong PowerPoint, cau nao sau day sai?
+ Co the chia bai thuyet trinh thanh nhieu section
+ Vung Content co the chua mot bang (table)
+ Khi trinh chieu, phan notes cua tung slide duoc hien ra tren man hinh trinh chieu
+ Co the dung nhieu layout khac nhau trong bai thuyet trinh
+278. Trong PowerPoint, Thanh phan nao khong thuoc mot slide?
+ Title
+ Content
+ Slide Footer Area
+ Slide Hearder Area
+279. Dau khong phai la cach de trinh dien mot bai thuyet trinh trong Powerpoint?
+ Bam vao nut Slide show () o goc duoi ben phai
+ The Slide show – chon From Beginning
+ The Slide show – chon From Custom Slide show
+ The Slide show – chon Set Up Slide show
+280. Muc dich chinh cua che do xem Slide Sorter trong Powerpoint la gi?
+ Thiet ke cac noi dung trong Slide mot cach de dang
+ Sap xep thu tu cac Slide mot cach de dang
+ Xem bai thuyet trinh duoi goc nhin nguoi noi
+ Xem bai thuyet trinh duoi goc nhin khan gia
+281. De trinh chieu tu slide 2 den slide 4 trong mot bai thuyet trinh trong Powerpoint 2010, cach nao duoi day la sai?
+ An cac slide khac tru slide 2, 3, 4
+ Su dung chuc nang Custom show va chon slide 2, 3, 4
+ Su dung chuc nang Set Up Slide Show, chon From 2 to 4 tai muc show slide trong cua so hien ra
+ Dat mau nen cua cac slide 2, 3, 4 khac so voi cac slide con lai
+282. Trong Powerpoint, che do trinh chieu Browsed by an individual (window) trong chuc nang Set Up Slide Show tuong duong voi goc nhin nao duoi day ?
+ Normal
+ Slide Sorter
+ Reading View
+ Slide Master
+283. Dang thiet ke giao an dien tu, truoc khi thoat khoi PowerPoint neu nguoi su dung chua luu lai tap tin thi may se hien mot thong bao. De luu lai tap tin nay ta se kich chuot trai vao nut nao trong bang thong bao nay?
+ Nut Yes
+ Nut No
+ Nut Cancel
+ Nut Save
+284. Trong Powerpoint, De luu tap tin voi mot ten khac ta chon lenh nao sau day
+ File -> Chon Open -> Go ten tap tin vao phan File Name
+ File -> Chon Save as -> Go ten tap tin vao phan File Name
+ File -> Chon New as-> Go ten tap tin vao phan File Name
+ File -> Chon Save -> Go ten tap tin vao phan File Name
+285. Trong Powerpoint, Vao Transition -> tich vao after -> go vao 00:05 giay, bam Apply to all slide se thuc hien duoc lenh trinh chieu:
+ Chi can kich chuot mot lan Slide duoc trinh chieu 00:05 giay bat dau tu Slide hien hanh duoc trinh chieu
+ Moi Slide duoc trinh chieu 00:05 giay bat dau tu Slide hien hanh duoc trinh chieu
+ Cac Slide khong tu dong trinh chieu
+ Cac Slide phai tuan thu su theo trinh tu la trinh chieu lau hon 00:05 giay
+286. Trong Powerpoint, De in Slide 1, 3, 6, 9 ta chon File -> Chon print:
+ Chon Current Range -> Go vao 1, 3 , 6, 9
+ Chon Slide-> Go vao 1, 3, 6, 9
+ Chon All -> Go vao 1, 3, 6, 9
+ Chon Seletion -> Go vao 1, 3, 6, 9
+287. Lenh tu to hop phim CTRL+N trong chuong trinh Microsoft Powerpoint nham de
+ Tao Presentation moi
+ Khong thuc hien duoc
+ Mo Presentation da co
+ Dong 1 Presentation
+288. Trong Powerpoint, phat bieu nao sau day la sai?
+ Khi tao hieu ung dong cho mot khoi van ban ta co the cho xuat hien lan luot tung tu trong khoi van ban khi trinh chieu
+ Sau khi da tao hieu ung dong cho mot doi tuong nao do ta khong the thay doi kieu hieu ung cho doi tuong do
+ Co the thuc hien hieu ung chuyen trang cho 1 slide bat ky trong bai trinh dien
+ Co the thuc hien hieu ung chuyen trang cho tat ca cac slide trong bai trinh dien
+289. Trong Powerpoint, sau khi thiet ke xong bai trinh dien, cach nao sau day de trinh chieu ngay bai trinh dien do?
+ Chon Slide Show → Chon Cusstom Show
+ Nhan phim F5
+ Chon View → Chon Slide Show
+ Chon Slide Show → Chon View Show
+290. Trong Powerpoint, am thanh dua vao bai trinh dien
+ Thuc hien duoc chi khi tao hieu ung dong cho doi tuong trong slide
+ Thuc hien duoc chi khi tao hieu ung chuyen trang giua cac slide
+ Thuc hien duoc ca khi tao hieu ung dong va hieu ung chuyen trang
+ Khong thuc hien duoc ca khi tao hieu ung dong va hieu ung chuyen trang
+291. Trong Powerpoint, su dung sieu lien ket (Hyperlink) se cho phep nguoi dung lien ket den (truong hop may tinh dang co ket noi Internet)
+ Tat ca cac tap tin, cac slide da co trong may va cac trang Web
+ Chi cac trang Web co tren mang
+ Chi cac slide da co trong tap tin thuyet trinh dang soan thao
+ Chi cac tap tin co san trong cac o dia cua may tinh dang soan thao
+292. Trong Powerpoint, sau khi da chen mot bang bieu vao slide, muon chia mot o nao do thanh 2 o ta:
+ Cac cach neu trong cau nay deu dung
+ Chon o do va nhap chuot trai vao nut lenh Split Cells tren thanh cong cu Tables and Borders
+ Kich chuot phai vao o do va chon Split Cells
+ Chon o do roi chon Table -> Split Cells
+293. Trong Powerpoint, cho phep nguoi su dung thiet ke mot slide chu chua cac dinh dang chung cua toan bo cac slide trong bai trinh dien. De thuc hien dieu nay, nguoi dung phai
+ Chon Insert -> Slide Master
+ Chon Insert -> Master Slide
+ Chon View -> Master Slide
+ Chon View -> Slide Master
+294. Trong Powerpoint, khi tao hieu ung dong cho 2 doi tuong A va B trong mot Slide, nguoi thiet ke da xac lap thoi gian de B tu dong xuat hien sau A la 5 giay. Vay khi trinh chieu:
+ Khi A da xuat hien, cu 5 giay sau thi B Xuat hien 1 lan
+ Sau khi a xuat hien neu nguoi su dung nhap chuot thi B lap tuc xuat hien
+ B luon luon xuat hien sau A la 5 giay bat chap nguoi su dung co nhap chuot hay khong
+ Khi A da xuat hien neu nguoi su dung nhap chuot thi 5 giay sau B moi xuat hien.
+295. Trong Powerpoint, de tao them mot Slide giong voi Slide dang chon, ta su dung chuc nang
+ Duplicate Slide
+ New Slide
+ Delete Slide
+ Add Section
+296. Trong Powerpoint, chuc nang nao khong co khi lam viec voi Section?
+ Rename Section
+ Duplicate Section
+ Remove Section
+ Remove Section & Slides
+297. Trong Powerpoint, nut cong cu nao khong co khi trinh chieu?
+ Pen
+ Eraser
+ Ink Color
+ Border
+298. Trong Powerpoint, chuc nang nao sau day khong co?
+ SmartArt
+ ClipArt
+ Wrap Text
+ Text Box
+299. Trong PowerPoint, mac dinh co bao nhieu Layout?
+ 7
+ 8
+ 9
+ 10
+300. Trong PowerPoint, chuc nang “Don’t show on title slide” trong Header & footer co tac dung gi?
+ Khong hieu thi Header & Footer o Slide dau tien
+ Khong hien thi Header&Footer o tat ca cac Slide co kieu layout la title Slide
+ Khong hieu thi Header&Footer khi trinh chieu
+ Khong hien thi Header&Footer khi thiet ke Slide nhung se hien thi khi trinh chieu
