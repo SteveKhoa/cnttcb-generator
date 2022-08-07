@@ -2,13 +2,6 @@
 //
 //  Note: #include this file above "utility.h"
 
-
-// Change this according to user's OS
-// On Windows: "" (leave it blank)
-// On Linux or MacOS: "open"
-std::string os_open = "open";
-
-
 // Maximum questions that the user would face. (max = 300)
 //      Example: =5 --> the user would face 5 questions
 unsigned int max_attempt = 30;
@@ -17,22 +10,26 @@ unsigned int max_attempt = 30;
 //      Example: =10 --> 10 first questions will be chosen randomly
 unsigned int max_constrain = 300;
 
-//
-// On Windows: "quest_win.txt"
-// On Linux or MacOS: "quest.txt"
+// Check operating system
+#ifdef _WIN32
+std::string os_open = "";
+std::string quest_file_dir = "quest_win.txt";
+#endif
+
+#ifdef _WIN64
+std::string os_open = "";
+std::string quest_file_dir = "quest_win.txt";
+#endif
+
+#ifdef __APPLE__
+std::string os_open = "open";
 std::string quest_file_dir = "quest_un.txt";
+#endif
 
-
-
-
-
-
-
-
-
-
-
-
+#ifdef __linux__
+std::string os_open = "open";
+std::string quest_file_dir = "quest_un.txt";
+#endif
 
 // Utility arrays, DO NOT CHANGE
 bool* checked = new bool[300];
