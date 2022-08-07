@@ -1,4 +1,4 @@
-FILE ans.txt van chua hoan thien, moi nguoi vui long tu dien dap an theo thu tu giup minh nhe ;(
+FILE ans.txt vẫn chưa hoàn thiện (từ câu 50 (dòng 50) trở đi toàn đáp án A), có gì mọi người nhập thủ công giúp mình nha ;(
 
 Neu ban dung Windows:
     Hay vao file "manifest.txt", doi std::string os_open = "open"; --> std::string os_open = "";
