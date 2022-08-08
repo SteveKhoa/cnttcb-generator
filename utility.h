@@ -20,7 +20,7 @@ unsigned int max_num(unsigned int i1, unsigned int i2)
     return i2;
 }
 
-void printRESULT(unsigned int quest_num, char ans)
+inline void printRESULT(unsigned int quest_num, char ans, unsigned int& user_correct_ans)
 {
     if (ans != 'a' && ans != 'b' && ans != 'c' && ans != 'd')
     {
@@ -30,6 +30,7 @@ void printRESULT(unsigned int quest_num, char ans)
 
     if (ans_array[quest_num - 1] == ans)
     {
+        user_correct_ans = user_correct_ans + 1;
         std::cout << "> Ban da tra loi DUNG!" << std::endl;
     }
     else

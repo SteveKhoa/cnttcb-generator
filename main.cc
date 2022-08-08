@@ -74,10 +74,11 @@ int main()
         // @param line_limit: determine maximum number of lines "reader" has to traversed through.
         //          reader: traversing the input file: quest.txt
 
-        //  functionality: NOT READ ACROSS THIS LINE
+        //  functionality: NOT READ ACROSS THIS LINE line_limit
         unsigned int line_limit = (max_idx - 1) * 5 + 1 + 5;
         unsigned int reader = 1;
         unsigned int quest_idx = 1;
+        unsigned int user_correct_ans = 0;
 
         // Keep track with the number of questions done by users.
         unsigned int attempt = 0;
@@ -96,7 +97,7 @@ int main()
                 }
 
                 // GUI
-                std::cout << "--- " << attempt << " / " << max_attempt << " ---" << std::endl;
+                std::cout << "--- " << attempt << " / " << max_attempt << " --- " << ((double)user_correct_ans/(attempt - 1))*100.0 << "% --- "<< std::endl;
 
                 getline(quest_file, curr_str);
                 std::cout << curr_str << std::endl
@@ -122,7 +123,7 @@ int main()
                 if (ANS == 'q')
                     goto exit;
 
-                printRESULT(quest_idx, ANS);
+                printRESULT(quest_idx, ANS, user_correct_ans);
 
                 reader = reader + 4;
                 quest_idx = quest_idx + 1;
@@ -140,7 +141,7 @@ int main()
 
         quest_file.close();
 
-        // @brief reopen the file
+        // @brief reopen the file for next trial.
         quest_file.open(quest_file_dir);
         if (!quest_file.is_open())
         {
