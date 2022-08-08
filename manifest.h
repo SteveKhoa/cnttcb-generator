@@ -14,10 +14,10 @@ unsigned int max_attempt = 30;
 unsigned int max_constrain = 300;
 
 // Check operating system
-#ifdef _WIN32
-std::string os_open = "";
-std::string quest_file_dir = "quest_win.txt";
-#endif
+// #ifdef _WIN32
+// std::string os_open = "";
+// std::string quest_file_dir = "quest_win.txt";
+// #endif
 
 #ifdef _WIN64
 std::string os_open = "";
