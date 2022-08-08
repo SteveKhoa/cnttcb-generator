@@ -71,7 +71,7 @@ int main()
 
         // @brief Build an sample exam.
         //
-        //  @param  line_limit: determine maximum number of lines "reader" has to traversed through.
+        // @param line_limit: determine maximum number of lines "reader" has to traversed through.
         //          reader: traversing the input file: quest.txt
 
         //  functionality: NOT READ ACROSS THIS LINE
@@ -111,7 +111,8 @@ int main()
                 getline(quest_file, curr_str);
                 std::cout << "(d) " << curr_str << std::endl;
 
-                std::cout << std::endl <<"[q] Thoat phan mem.";
+                std::cout << std::endl
+                          << "[q] Thoat phan mem.";
 
                 std::cout << std::endl
                           << "Choose: ";
@@ -144,6 +145,12 @@ int main()
         if (!quest_file.is_open())
         {
             throw std::runtime_error("Khong tim thay file quest_*.txt!");
+        }
+
+        // @brief reset check[i].
+        for (int i = 0; i < 300; ++i)
+        {
+            checked[i] = false;
         }
     }
 
