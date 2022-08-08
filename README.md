@@ -16,6 +16,25 @@ Một số chức năng:
 2. Trả về đáp án ngay khi làm xong một câu.
 3. Các câu được chọn không bị trùng nhau
 
+Xử lí lỗi:
+--------------------
+1. Nếu compile bị lỗi `redefinition`:
+      - Vào `manifest.h`
+      - Xoá 
+      ```
+            #ifdef _WIN32
+            std::string os_open = "";
+            std::string quest_file_dir = "quest_win.txt";
+            #endif
+            
+            hoặc
+            
+            #ifdef _WIN64
+            std::string os_open = "";
+            std::string quest_file_dir = "quest_win.txt";
+            #endif
+      ```
+
 Fixes:
 --------------------
 
