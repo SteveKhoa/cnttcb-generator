@@ -6,6 +6,7 @@ Người dùng
 
 2. Nếu bạn dùng Windows:
       - Chạy file windows.exe
+      
    Nếu bạn dùng Linux hay MacOS:
       - Chạy file limac
 
