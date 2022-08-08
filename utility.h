@@ -67,7 +67,9 @@ bool doesRequireImages(unsigned int quest_num)
 
 void openImage(unsigned int quest_num)
 {
-    os_open.append(" img/");
+    os_open.append(" ");
+    os_open.append(path);
+    os_open.append("/img/");
     os_open.append(std::to_string(quest_num));
     os_open.append(".png");
     system(os_open.c_str());
