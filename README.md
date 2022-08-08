@@ -10,6 +10,9 @@ Người dùng
    Nếu bạn dùng Linux hay MacOS:
       - Chạy file limac
 
+3. Nhập `Vui long nhap duong dan (directory) toi folder cua ban: `
+      - Ví dụ: `C:\pacman\desktop\cnttcb-generator`
+
 Một số chức năng:
 --------------------
 1. Các câu được chọn ra là ngẫu nhiên
