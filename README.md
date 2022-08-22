@@ -5,7 +5,7 @@ Người dùng
 1. Tải toàn bộ folder này về (bấm vào nút 'Code' màu xanh bên trên, chọn Download Zip).
 
 2. Nếu bạn dùng Windows:
-      - Chạy file *.exe
+      - Compile lại file main.cc
 
    Nếu bạn dùng Linux hay MacOS:
       - Chạy file limac
